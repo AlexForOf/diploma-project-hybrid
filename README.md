@@ -1,7 +1,8 @@
 # Technical Overview & Plan
 ### **Project Overview**
 
-**Title:** Covert side-channel attack detection protocol in embedded firmware update process. **Objective:** To develop a hybrid C/Bash detection engine that monitors hardware-level performance telemetry to identify and halt TOCTOU firmware manipulation attacks in real-time during an embedded device's over-the-air update process.
+**Title:** Covert side-channel attack detection protocol in embedded firmware update process. 
+**Objective:** To develop a hybrid C/Bash detection engine that monitors hardware-level performance telemetry to identify and halt TOCTOU firmware manipulation attacks in real-time during an embedded device's over-the-air update process.
 
 ---
 
