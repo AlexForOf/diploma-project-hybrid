@@ -1,8 +1,9 @@
 # Compiled binaries
-*.out 
-sensor_x86 
-sensor_arm   
+bin/
+sensor_x86
+sensor_arm
 # Telemetry Data
+telemetry/
 *.csv 
 *.log
 # OS files
