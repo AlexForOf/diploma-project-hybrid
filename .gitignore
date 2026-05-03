@@ -1,0 +1,10 @@
+# Compiled binaries
+*.out sensor_x86 sensor_arm
+   
+# Telemetry Data
+*.csv *.log
+# OS files
+.DS_Store
+# Mock Directories
+mock_tmp/
+mock_flash/
