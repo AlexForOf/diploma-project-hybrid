@@ -1,8 +1,10 @@
 # Compiled binaries
-*.out sensor_x86 sensor_arm
-   
+*.out 
+sensor_x86 
+sensor_arm   
 # Telemetry Data
-*.csv *.log
+*.csv 
+*.log
 # OS files
 .DS_Store
 # Mock Directories
